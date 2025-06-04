@@ -13,4 +13,3 @@
 
 [<img align="left" alt="dustinadams14 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/dustinadams14
-- ⚡ Fun fact: ...
